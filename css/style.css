@@ -1,0 +1,11 @@
+p{
+    color: rgb(20, 224, 13);
+    font-size: 50px;
+
+}
+.segundo{color: red;}
+/* . pra classe e # pra id */
+
+.p1 p{background-color: rgb(1, 0, 3);}
+
+.pamarelo{color: gold;}
